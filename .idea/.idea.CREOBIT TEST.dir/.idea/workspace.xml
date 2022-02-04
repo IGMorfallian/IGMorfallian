@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9922ca57-3468-4afe-8dc8-e1b09ed7bd16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CREOBIT TEST/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CREOBIT TEST/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/CircleMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/CircleMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/CubeMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/CubeMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/TriangleMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/TriangleMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelButton.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelButton.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Levels.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Levels/Energy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Levels/Energy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Levels/Level 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Levels/Level 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Levels/Level 2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Levels/Level 2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Mechanics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Mechanics/MainMechanic.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Mechanics/MainMechanic.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Mechanics/TriangleMechanic.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Mechanics/TriangleMechanic.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sphere.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Triangle (1).prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Triangle (1).prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Triangle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Triangle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/NewScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/NewScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/Base/MechanicBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/Base/MechanicBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/ChangeScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/ChangeScore.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/MainMechanic.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/MainMechanic.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/SizeCube.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/SizeCube.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/SizeSphere.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MainMechanic/SizeSphere.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MechanicsExecutor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/MechanicsExecutor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/TriangleMechanic.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/TriangleMechanic/Energy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/TriangleMechanic/Energy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/TriangleMechanic/TriangleMechanic.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Mechanics/TriangleMechanic/TriangleMechanic.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menu.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/LevelMenuScreenManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/LevelMenuScreenManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/SelectLevelButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/SelectLevelButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/Base/IRuleChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/Base/IRuleChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/EmptyRuleChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/EmptyRuleChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/EnergyAndCubeSizeChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/EnergyAndCubeSizeChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/SizeChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RuleCheckers/SizeChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SelectionHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SelectionHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ShapeSequence.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ShapeSequence.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Base/ShapeBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Base/ShapeBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Cube.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Cube.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Sphere.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Sphere.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Triangle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Shapes/Triangle.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Utils.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Utils/TypeIndexIterator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Utils/TypeIndexIterator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Utils/TypeOf.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Utils/TypeOf.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.ComponentModel.Composition.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Drawing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.EnterpriseServices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Globalization.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Runtime.Serialization.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Runtime.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.ServiceModel.Internals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Transactions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.2D.Animation.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.2D.Animation.Triangle.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.2D.Common.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.2D.IK.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.2D.PixelPerfect.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.Mathematics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.AIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ARModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.AccessibilityModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.AndroidJNIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.AnimationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.AssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.AudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ClothModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ClusterInputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.CoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.CrashReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.DSPGraphModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.DirectorModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.GIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.GameCenterModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.GridModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.HotReloadModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.IMGUIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ImageConversionModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.InputLegacyModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.InputModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.LocalizationModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.Physics2DModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.PhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ProfilerModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.SharedInternalsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.SpriteShapeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.StreamingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.SubstanceModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.SubsystemsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.TLSModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.TerrainModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.TextCoreModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.TextRenderingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.TilemapModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UIElementsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UIElementsNativeModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UIModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UNETModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UmbraModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityConnectModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityCurlModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.VFXModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.VRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.VehiclesModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.VideoModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.VirtualTexturingModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.WindModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.XRModule.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/UnityEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Managed/netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Resources/unity default resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/Resources/unity_builtin_extra" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/RuntimeInitializeOnLoads.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/ScriptingAssemblies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/app.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/globalgamemanagers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/globalgamemanagers.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/level0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/sharedassets0.assets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CREOBIT TEST_Data/sharedassets0.assets.resS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/CreobitAPK.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/2.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/2.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/2.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.0/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.0/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.0/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.5/machine.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.5/settings.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/4.5/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/browscap.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/MonoBleedingEdge/etc/mono/mconfig/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/UnityCrashHandler64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builds/UnityPlayer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CREOBIT TEST.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24eLhWDnkyJWQRawQasaIubTNVt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1643986240845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643986240845</updated>
+      <workItem from="1643986253204" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
